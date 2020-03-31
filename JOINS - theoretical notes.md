@@ -48,7 +48,7 @@ SELECT * FROM products LEFT JOIN categories ON product.category_id = categories.
 SELECT * FROM products RIGHT JOIN categories ON product.category_id = categories.id
 ```
 
-![image-20200401014319593](C:\Users\garnaudo\AppData\Roaming\Typora\typora-user-images\image-20200401014319593.png)
+![img](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/91974193_668693007248296_2087994850552053760_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_eui2=AeEp1bzqJf4RYzAFDPcG8N5UPFuWOtuAsnVypf9mkMpPDbmfaOrju7U85WlM2gGd6dfWQtSI3NPhBd9vv7AUSYjq-nrpPcpfQ2FzKquKTSo4eQ&_nc_ohc=QkBZTHxfNfIAX_xARFz&_nc_ht=scontent.fsof9-1.fna&oh=c10cc0cac12c7857355721c0fc94c26d&oe=5EA7E489)
 
 Резултатът ще бъде какъвто имаме в INNER JOIN с разликата, че това, **което ще се залепи, ще е от Categories (Почстващи препарати), а стойностите за Products ще са NULL**
 

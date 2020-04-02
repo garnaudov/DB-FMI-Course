@@ -97,7 +97,7 @@ JOIN pc p2 ON p1.speed = p2.speed AND p1.ram = p2.ram AND p1.model < p2.model;
 
 Output:
 
-![image-20200402165925170](C:\Users\garnaudo\AppData\Roaming\Typora\typora-user-images\image-20200402165925170.png)
+<img src="https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/91861675_347827902843119_5655191654915637248_n.png?_nc_cat=108&amp;_nc_sid=b96e70&amp;_nc_eui2=AeHPzgBBSWco6fsjIhzU2rE4jepDe9OX4VVzi0y5Ppn3EBvpb9Ma5ZszeO41Y88OnA58oeneUCGJSZ-mY7JxnvkGsvuZZhrQmRtfqsznRzxUnw&amp;_nc_ohc=-ROOaB0o0s8AX-gjtzV&amp;_nc_ht=scontent.fsof9-1.fna&amp;oh=c7887d025dd36c22ee3daef59321d124&amp;oe=5EAA95F2" alt="img" style="zoom:50%;" />
 
 **Пример 2 (основен):**
 
